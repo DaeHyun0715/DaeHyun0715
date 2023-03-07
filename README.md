@@ -1,6 +1,11 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome!&desc=DaeHyun's%20GitHub" />	
 </div>
+<br>
+<div align=center>
+안녕하십니까 저는 안대현이라고 합니다.
+</div>
+<br>
 <div align=center>
 	<h3>🛠 Tech Stack 🛠</h3>
 <br>
@@ -43,4 +48,20 @@
 		<img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white" />
 	</a>
 	<br>
+</div>
+<div align=center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaeHyun0715%2Fhit-counter&count_bg=%23FBB5D7&title_bg=%23F5B8F5&icon=bower.svg&icon_color=%232B2424&title=hits&edge_flat=false"/></a>
+</div>
+<br>
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaeHyun0715&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=DaeHyun0715&show_icons=true">
+
+
+
+<br>
+<p>🏆 Baekjoon solved rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=DaeHyun0715)](https://solved.ac/DaeHyun0715)
 </div>
