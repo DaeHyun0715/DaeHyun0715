@@ -80,8 +80,8 @@
 
 
 
-	<br>
-	<p>🏆 Baekjoon solved rank 🏆</p>
+<br>
+<p>🏆 Baekjoon solved rank 🏆</p>
 	
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=DaeHyun0715)](https://solved.ac/DaeHyun0715)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=DaeHyun0715)](https://solved.ac/DaeHyun0715)
 </div>
