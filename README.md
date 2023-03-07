@@ -3,7 +3,10 @@
 </div>
 <br>
 <div align=center>
-안녕하십니까 저는 안대현이라고 합니다.
+introduction
+</div>
+<div align=center>
+안녕하십니까 저는 안대현이라고 합니다. 현재 프론트엔드를 공부하고 있으며 벡엔드에도 관심이 많은 편입니다. 언제나 열정을 가지고있는 개발자입니다.
 </div>
 <br>
 <div align=center>
